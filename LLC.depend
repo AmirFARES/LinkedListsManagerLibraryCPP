@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569581623 source:e:\c++\rapelle\llc\main.cpp
+	<iostream>
+
+1571219634 source:e:\c++\rapelle\llc\llc.cpp
+	<iostream>
+	"GestLLC.h"
+
+1571219536 e:\c++\rapelle\llc\gestllc.h
+	<iostream>
+
